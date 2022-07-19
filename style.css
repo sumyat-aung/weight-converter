@@ -1,0 +1,63 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #98c1d9;
+  font-family: "Space Mono", monospace;
+}
+
+.main {
+  width: 100vw;
+  height: 100vh;
+  background-color: #98c1d9;
+}
+
+.title {
+  text-align: center;
+  padding-top: 4%;
+  font-size: 4em;
+  color: #3d5a80;
+}
+
+.input-box {
+  display: flex;
+  justify-content: center;
+  height: 6%;
+  margin-top: 100px;
+}
+
+#input {
+  width: 50%;
+  color: #3d5a80;
+  padding: 20px;
+  border: none;
+  font-family: "Space Mono", monospace;
+  background-color: #e0fbfc;
+}
+
+#input:focus {
+  outline: none;
+}
+
+#wrap {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.card {
+  border-bottom: 1px solid #3d5a80;
+  width: 50%;
+  padding: 20px;
+  color: #3d5a80;
+}
+
+@media screen and (max-width: 450px) {
+  .title {
+    font-size: 2.5em;
+  }
+}
