@@ -21,7 +21,7 @@
 ## Built With
 
 - **HTML** ,
-- **CSS**
+- **CSS** and
 - **JS**
 
 ## Features
