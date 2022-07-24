@@ -2,9 +2,9 @@
 
 ## Overview
 
-  <h3>
+  <h3>   Demo - URL link -
     <a href="https://weightconverter-by-sumyat.netlify.app/">
-      Demo - URL link - https://weightconverter-by-sumyat.netlify.app/
+     https://weightconverter-by-sumyat.netlify.app/
     </a>
   </h3>
 
@@ -14,19 +14,18 @@
 ![](Demo/large-screen.png)
 <br/>
 <br/>
-![](Demo/small-screen.png)
+<div align="center">
+<img src="Demo/small-screen.png" width="600">
+</div>
 <br/>
 <br/>
 
 ## Built With
 
-- **HTML** ,
-- **CSS** and
+- **HTML** 
+- **CSS**
 - **JS**
 
 ## Features
 
-- **Responsive and look great on all devices**
-- **Classic UI**
-- **Fonts and color paring**
-- **Correct Calculation**
+- **Weight Converter from lbs to grams, kilograms and ounces**
